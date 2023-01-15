@@ -1,0 +1,4 @@
+# Dependencies required for test.
+
+pytest==6.0.0
+pandas==1.5.2
